@@ -2,7 +2,8 @@
 public class FujiiSomaDes {
 
 	public static void main(String[] args) {
-		// TODO 自動生成されたメソッド・スタブ
+		String coolguy = "フジイソーーーーーーマです";
+		System.out.println(coolguy);
 
 	}
 
